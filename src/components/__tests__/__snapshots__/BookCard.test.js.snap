@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Book Card should render link output 1`] = `
+<a
+  className="card-link"
+  href="/book/undefined"
+  onClick={[Function]}
+>
+  <div
+    className="card"
+  >
+    <div
+      className="media"
+    >
+      <img
+        className="mr-3"
+        width="200px"
+      />
+      <div
+        className="media-body"
+      >
+        <h4
+          className="mt-0"
+        />
+         
+        <span
+          className="editmode-button"
+          style={
+            Object {
+              "display": "none",
+            }
+          }
+        >
+          edit
+        </span>
+        <p />
+      </div>
+    </div>
+    <hr />
+  </div>
+</a>
+`;

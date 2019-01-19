@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Author Card should render link output 1`] = `
+<li>
+  <a
+    href="/author/undefined"
+    onClick={[Function]}
+  />
+</li>
+`;
+
+exports[`AuthorCard renders correctly 1`] = `<li />`;
+
+exports[`SampleComponent should render 1`] = `
+<li>
+  <a
+    href="/author/undefined"
+    onClick={[Function]}
+  />
+</li>
+`;
