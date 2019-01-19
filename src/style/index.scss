@@ -1,0 +1,39 @@
+@import 'skelaton';
+@import 'grids';
+@import 'navbar';
+@import 'forms';
+
+.card-link {
+    text-decoration: none;
+    color: $black-color;
+    cursor: pointer;
+    .card {
+        padding: 0 40px;
+        img {
+            width: 150px;
+            height: 150px;
+            margin: 20px 20px 20px 0;
+        }
+        span.editmode-button {
+            color: $white-color;
+            background: $dark-blue-color;
+            font-size: 12px;
+            padding: 7px 20px;
+            border-radius: 5px;   
+        }
+    }
+}
+
+.boxed-border { 
+    border: 1px solid $dark-blue-color;
+    border-radius: 5px;
+    .headline {
+        background: $dark-blue-color;
+        padding: 0;
+        h4 {
+            margin-top: 0;
+            padding: 11px;
+            color: $white-color;
+        }
+    }
+}
