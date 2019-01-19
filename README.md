@@ -1,5 +1,3 @@
-# WUZZUF Front-End Task
-
 ### App Intro
 In this project you will find Book List application, that include 3 parts (Books (Add, Edit, View), Authors(Add, Edit, View), Categories(Add, Edit, View)).
 
